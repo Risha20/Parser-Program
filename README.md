@@ -1,2 +1,2 @@
-# Parser-Program
-Using a Lexical Analyzer to for parsing whereby it analyzes the tokens inputted and creates a parse tree if the parse is successful, or otherwise throws exceptions.
+# CS-280-Assignment-3
+A parser which analyzes the input and either throws exceptions or creates a parse tree if the parse is successful.
